@@ -1,0 +1,15 @@
+/Users/levonbabaan/Projects/igra/igra/obj/Debug/net7.0/igra.csproj.AssemblyReference.cache
+/Users/levonbabaan/Projects/igra/igra/obj/Debug/net7.0/igra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levonbabaan/Projects/igra/igra/obj/Debug/net7.0/igra.AssemblyInfoInputs.cache
+/Users/levonbabaan/Projects/igra/igra/obj/Debug/net7.0/igra.AssemblyInfo.cs
+/Users/levonbabaan/Projects/igra/igra/obj/Debug/net7.0/igra.csproj.CoreCompileInputs.cache
+/Users/levonbabaan/Projects/igra/igra/bin/Debug/net7.0/igra
+/Users/levonbabaan/Projects/igra/igra/bin/Debug/net7.0/igra.deps.json
+/Users/levonbabaan/Projects/igra/igra/bin/Debug/net7.0/igra.runtimeconfig.json
+/Users/levonbabaan/Projects/igra/igra/bin/Debug/net7.0/igra.dll
+/Users/levonbabaan/Projects/igra/igra/bin/Debug/net7.0/igra.pdb
+/Users/levonbabaan/Projects/igra/igra/obj/Debug/net7.0/igra.dll
+/Users/levonbabaan/Projects/igra/igra/obj/Debug/net7.0/refint/igra.dll
+/Users/levonbabaan/Projects/igra/igra/obj/Debug/net7.0/igra.pdb
+/Users/levonbabaan/Projects/igra/igra/obj/Debug/net7.0/igra.genruntimeconfig.cache
+/Users/levonbabaan/Projects/igra/igra/obj/Debug/net7.0/ref/igra.dll
